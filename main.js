@@ -41,16 +41,16 @@ function my_keydown(e)
 
 function aplhabetkey()
 {
-	img_image="file:///C:/Users/adesh/AppData/Local/Temp/Temp1_ADVC84template-master.zip/ADVC84template-master/Alpkey.png"
+	img_image=""
 
 }
 function numberkey()
 {
-	img_image="file:///C:/Users/adesh/AppData/Local/Temp/Temp1_ADVC84template-master.zip/ADVC84template-master/numkey.png"
+	img_image=file:///C:/Users/adesh/AppData/Local/Temp/Temp1_ADVC84template-master.zip/ADVC84template-master/Alpkey.png""
 }
 function arrowkey()
 {
-    img_image="file:///C:/Users/adesh/AppData/Local/Temp/Temp1_ADVC84template-master.zip/ADVC84template-master/Arrkey.png"
+    img_image=file:///C:/Users/adesh/AppData/Local/Temp/Temp1_ADVC84template-master.zip/ADVC84template-master/Arrkey.png""
 }
 function specialkey()
 {
